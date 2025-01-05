@@ -1,5 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 18,
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system"
 }
