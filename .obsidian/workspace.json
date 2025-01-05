@@ -11,14 +11,15 @@
             "id": "211e1fd5053d9d10",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "publish/home.md",
-                "bFile": "publish/home.md",
-                "aRef": ""
+                "file": "私の第二の脳/Laravel/Test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: home"
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -153,8 +154,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ba0066dadfb0b22",
+  "active": "211e1fd5053d9d10",
   "lastOpenFiles": [
+    "私の第二の脳/Laravel/Test.md",
     "私の第二の脳/Laravel",
     "私の第二の脳",
     "remote-blog/README.md",
@@ -189,7 +191,6 @@
     "remote-blog/publish/attachments/enable-actions-github.png",
     "remote-blog/publish/attachments/create-pat-github.png",
     "remote-blog/publish/attachments",
-    "remote-blog/publish",
     "Untitled.md",
     "2025-01-04.md",
     "PostgreSQL/S.md",
