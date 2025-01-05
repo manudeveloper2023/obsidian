@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "私の第二の脳/Laravel/Test.md",
+                "file": "私の第二の脳/Nginx/Reverse Proxy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Reverse Proxy"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -71,14 +71,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e202876c1098fc6c",
@@ -139,16 +139,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 544.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
@@ -156,17 +156,23 @@
   },
   "active": "211e1fd5053d9d10",
   "lastOpenFiles": [
+    "私の第二の脳/Nginx/Anexos/Pasted image 20250104235303.png",
+    "私の第二の脳/Nginx/Anexos",
+    "Pasted image 20250104235141.png",
+    "私の第二の脳/Nginx/Reverse Proxy.md",
+    "Pasted image 20250104234732.png",
+    "私の第二の脳/PostgreSQl/Schema/Schema.md",
+    "私の第二の脳/PostgreSQl/Schema",
+    "私の第二の脳/PostgreSQl",
+    "私の第二の脳/React/Untitled",
+    "私の第二の脳/Tailwindcss",
+    "私の第二の脳/JS",
+    "私の第二の脳/Nginx",
+    "私の第二の脳/React",
     "私の第二の脳/Laravel/Test.md",
     "私の第二の脳/Laravel",
     "私の第二の脳",
     "remote-blog/README.md",
-    "remote-blog/publish/DSA",
-    "remote-blog/私の第二の脳/Nginx",
-    "remote-blog/私の第二の脳/Docker",
-    "remote-blog/私の第二の脳/Postgresql",
-    "remote-blog/私の第二の脳/React",
-    "remote-blog/私の第二の脳/Laravel",
-    "remote-blog/私の第二の脳",
     "remote-blog/publish/home.md",
     "remote-blog/publish/accepted-markdown-metadata.md",
     "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
@@ -188,9 +194,6 @@
     "remote-blog/publish/attachments/github-secrets-vercel.png",
     "remote-blog/publish/attachments/fork-linked-blog-starter-md.png",
     "remote-blog/publish/attachments/fn-website-demo.gif",
-    "remote-blog/publish/attachments/enable-actions-github.png",
-    "remote-blog/publish/attachments/create-pat-github.png",
-    "remote-blog/publish/attachments",
     "Untitled.md",
     "2025-01-04.md",
     "PostgreSQL/S.md",
