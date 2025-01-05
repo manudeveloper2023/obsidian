@@ -11,10 +11,14 @@
             "id": "211e1fd5053d9d10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "publish/home.md",
+                "bFile": "publish/home.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: home"
             }
           }
         ]
@@ -149,20 +153,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "211e1fd5053d9d10",
+  "active": "7ba0066dadfb0b22",
   "lastOpenFiles": [
+    "私の第二の脳/Laravel",
+    "私の第二の脳",
+    "remote-blog/README.md",
+    "remote-blog/publish/DSA",
+    "remote-blog/私の第二の脳/Nginx",
+    "remote-blog/私の第二の脳/Docker",
+    "remote-blog/私の第二の脳/Postgresql",
+    "remote-blog/私の第二の脳/React",
+    "remote-blog/私の第二の脳/Laravel",
+    "remote-blog/私の第二の脳",
+    "remote-blog/publish/home.md",
+    "remote-blog/publish/accepted-markdown-metadata.md",
+    "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
+    "remote-blog/publish/update-publish-settings-github-actions.md",
+    "remote-blog/publish/statically-generated.md",
+    "remote-blog/publish/reinventing-the-wheel.md",
+    "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "remote-blog/publish/linked-blog-starter-does-not-reinvent-wheel.md",
+    "remote-blog/publish/install-linked-blog-starter-locally.md",
+    "remote-blog/publish/how-linked-blog-starter-works.md",
+    "remote-blog/publish/get-project-id-account-id-and-token-vercel.md",
+    "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
+    "remote-blog/publish/connect-obsidian-vault-with-github.md",
+    "remote-blog/publish/attachments/vercel-project-id.png",
+    "remote-blog/publish/attachments/vercel-create-token.png",
+    "remote-blog/publish/attachments/vercel-account-id.png",
+    "remote-blog/publish/attachments/publish-dir-yml.png",
+    "remote-blog/publish/attachments/how-linked-blog-starter-works.png",
+    "remote-blog/publish/attachments/github-secrets-vercel.png",
+    "remote-blog/publish/attachments/fork-linked-blog-starter-md.png",
+    "remote-blog/publish/attachments/fn-website-demo.gif",
+    "remote-blog/publish/attachments/enable-actions-github.png",
+    "remote-blog/publish/attachments/create-pat-github.png",
+    "remote-blog/publish/attachments",
+    "remote-blog/publish",
     "Untitled.md",
-    "第二の脳/Nginx",
-    "第二の脳/React",
-    "第二の脳/Laravel",
-    "第二の脳",
     "2025-01-04.md",
-    "remote-blog",
-    "React",
     "PostgreSQL/S.md",
-    "PostgreSQL/SQL.md",
-    "React",
-    "第二の脳",
-    "PostgreSQL"
+    "PostgreSQL/SQL.md"
   ]
 }
