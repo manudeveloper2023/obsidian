@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a1968dedab9d6247",
+        "id": "f5ee71effb4fbfb1",
         "type": "tabs",
         "children": [
           {
-            "id": "211e1fd5053d9d10",
+            "id": "b3d2f84dc8b4a434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "私の第二の脳/Nginx/Mime Types.md",
+                "file": "私の第二の脳/Laravel/Routing/Basic Routes/Routing Customization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mime Types"
+              "title": "Routing Customization"
             }
           }
         ]
@@ -94,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "私の第二の脳/Nginx/Mime Types.md",
+                "file": "私の第二の脳/React/reactRouter/Instalación de ReactRouter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Mime Types"
+              "title": "Enlaces salientes de Instalación de ReactRouter"
             }
           },
           {
@@ -140,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,53 +155,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "211e1fd5053d9d10",
+  "active": "b3d2f84dc8b4a434",
   "lastOpenFiles": [
-    "私の第二の脳/Nginx/Reverse Proxy.md",
-    "私の第二の脳/Nginx/Mime Types.md",
-    "私の第二の脳/Nginx/Instalar Nginx para Ubuntu.md",
-    "私の第二の脳/Nginx/Configuration/nginx.conf.md",
-    "私の第二の脳/Nginx/Configuration/Server Configuration.md",
-    "私の第二の脳/Nginx/Configuration",
-    "私の第二の脳/Ubuntu/systemd/Manejo de procesos de Nginx/systemctl stop.md",
-    "私の第二の脳/Ubuntu/systemd/Manejo de procesos de Nginx/systemctl start.md",
-    "私の第二の脳/Ubuntu/systemd/Manejo de procesos de Nginx/systemctl reload.md",
-    "私の第二の脳/Ubuntu/systemd/Manejo de procesos de Nginx/systemctl enable.md",
-    "私の第二の脳/Ubuntu/systemd/Manejo de procesos de Nginx/systemctl disable.md",
-    "私の第二の脳/Ubuntu/systemd",
-    "私の第二の脳/Ubuntu",
-    "私の第二の脳/Ubuntu/systemd/Manejo de procesos de Nginx",
-    "私の第二の脳/Nginx/Anexos/Pasted image 20250105121332.png",
-    "私の第二の脳/Nginx/Anexos/Pasted image 20250105121140.png",
-    "私の第二の脳/Nginx/Anexos/Pasted image 20250105000016.png",
-    "私の第二の脳/Nginx/Anexos/Pasted image 20250104235303.png",
-    "私の第二の脳/Nginx/Anexos",
-    "Pasted image 20250104235141.png",
-    "Pasted image 20250104234732.png",
-    "私の第二の脳/PostgreSQl/Schema/Schema.md",
-    "私の第二の脳/PostgreSQl/Schema",
-    "私の第二の脳/PostgreSQl",
-    "私の第二の脳/React/Untitled",
-    "私の第二の脳/Tailwindcss",
-    "私の第二の脳/JS",
-    "私の第二の脳/Laravel/Test.md",
-    "remote-blog/README.md",
-    "remote-blog/publish/home.md",
-    "remote-blog/publish/accepted-markdown-metadata.md",
-    "remote-blog/publish/works-out-of-the-box-with-markdown-files.md",
-    "remote-blog/publish/update-publish-settings-github-actions.md",
-    "remote-blog/publish/statically-generated.md",
-    "remote-blog/publish/reinventing-the-wheel.md",
-    "remote-blog/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "remote-blog/publish/linked-blog-starter-does-not-reinvent-wheel.md",
-    "remote-blog/publish/install-linked-blog-starter-locally.md",
-    "remote-blog/publish/how-linked-blog-starter-works.md",
-    "remote-blog/publish/get-project-id-account-id-and-token-vercel.md",
-    "remote-blog/publish/deploy-a-custom-linked-blog-starter.md",
-    "remote-blog/publish/connect-obsidian-vault-with-github.md",
-    "remote-blog/publish/attachments/vercel-project-id.png",
-    "remote-blog/publish/attachments/vercel-create-token.png",
-    "remote-blog/publish/attachments/vercel-account-id.png",
-    "remote-blog/publish/attachments/publish-dir-yml.png"
+    "私の第二の脳/Laravel/Routing/Basic Routes/Redirect Routes.md",
+    "私の第二の脳/Laravel/Routing/Basic Routes/Routing Customization.md",
+    "私の第二の脳/Laravel/Routing/Basic Routes/Anexos/Pasted image 20250106203726.png",
+    "私の第二の脳/Laravel/Routing/Basic Routes",
+    "私の第二の脳/Laravel/Routing/Basic Routes/Listing Routes.md",
+    "私の第二の脳/Laravel/Routing/Basic Routes/View Routes.md",
+    "私の第二の脳/Laravel/Routing/Basic Routes/CSFR Protection.md",
+    "私の第二の脳/Laravel/Routing/Basic Routes/Basic Routing.md",
+    "私の第二の脳/Laravel/Routing/Basic Routes/Api Routes.md",
+    "私の第二の脳/Laravel/Routing/Basic Routes/Available Router Methods.md",
+    "私の第二の脳/Laravel/Routing/Basic Routes/Anexos/Pasted image 20250106200814.png",
+    "私の第二の脳/Laravel/Routing/Basic Routes/Anexos",
+    "私の第二の脳/Docker/Compose/Docker Compose Sheet.md",
+    "私の第二の脳/Laravel/Routing",
+    "私の第二の脳/Docker/Compose/Anexos/Pasted image 20250106192818.png",
+    "私の第二の脳/Docker/Compose/How-tos/Services Profiles/Use service profiles.md",
+    "私の第二の脳/Docker/Compose/How-tos/Services Profiles/Stop specific profiles.md",
+    "私の第二の脳/Docker/Compose/How-tos/Services Profiles/Auto-starting profiles and dependency resolution.md",
+    "私の第二の脳/Docker/Compose/How-tos/Use lifecycle hooks.md",
+    "私の第二の脳/Docker/Compose/How-tos/Services Profiles",
+    "私の第二の脳/Docker/Compose/How-tos",
+    "私の第二の脳/Docker/Volume/Create a Volume.md",
+    "私の第二の脳/Docker/Volume/Volumes.md",
+    "私の第二の脳/Nginx/Load Balancer/HTTP Load Balancing/Proxying HTTP Traffic to a Group of Servers.md",
+    "私の第二の脳/Docker/Compose/Anexos/Pasted image 20250106190931.png",
+    "私の第二の脳/Docker/Compose/Anexos",
+    "私の第二の脳/Docker/Compose",
+    "私の第二の脳/Docker/Containers/Running Containers.md",
+    "私の第二の脳/Docker/Volume/Anexos/Pasted image 20250106190252.png",
+    "私の第二の脳/Docker/Volume/Anexos/Pasted image 20250106190235.png",
+    "私の第二の脳/Docker/Volume/Anexos",
+    "私の第二の脳/Nginx/Load Balancer/Deploy Load Balancer con Docker.md",
+    "私の第二の脳/Docker/Volume",
+    "私の第二の脳/Nginx/Load Balancer/upstream.md",
+    "私の第二の脳/Docker/CLI/Building.md",
+    "私の第二の脳/Docker/CLI/Anexos/Pasted image 20250106183620.png",
+    "私の第二の脳/Docker/CLI/Attach Shell.md",
+    "私の第二の脳/Docker/CLI/Limits.md",
+    "私の第二の脳/Docker/CLI/Cleaning up.md",
+    "私の第二の脳/Docker/CLI/Commands.md",
+    "私の第二の脳/Docker/CLI/Anexos/Pasted image 20250106183006.png",
+    "私の第二の脳/Docker/CLI/Anexos/Pasted image 20250106182937.png",
+    "私の第二の脳/Docker/CLI/Anexos/Pasted image 20250106182911.png",
+    "私の第二の脳/Docker/Containers/Comandos/logs.md",
+    "私の第二の脳/Docker/CLI/Anexos"
   ]
 }
