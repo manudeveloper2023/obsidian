@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f5ee71effb4fbfb1",
+        "id": "00bc96e74b18490f",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d2f84dc8b4a434",
+            "id": "4e9a2767b6661955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "私の第二の脳/Laravel/Routing/Basic Routes/Routing Customization.md",
+                "file": "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes/@required.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routing Customization"
+              "title": "@required"
             }
           }
         ]
@@ -94,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "私の第二の脳/React/reactRouter/Instalación de ReactRouter.md",
+                "file": "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes/@required.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Instalación de ReactRouter"
+              "title": "Enlaces salientes de @required"
             }
           },
           {
@@ -140,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,52 +155,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3d2f84dc8b4a434",
+  "active": "bb34836575a1df69",
   "lastOpenFiles": [
-    "私の第二の脳/Laravel/Routing/Basic Routes/Redirect Routes.md",
-    "私の第二の脳/Laravel/Routing/Basic Routes/Routing Customization.md",
-    "私の第二の脳/Laravel/Routing/Basic Routes/Anexos/Pasted image 20250106203726.png",
-    "私の第二の脳/Laravel/Routing/Basic Routes",
-    "私の第二の脳/Laravel/Routing/Basic Routes/Listing Routes.md",
-    "私の第二の脳/Laravel/Routing/Basic Routes/View Routes.md",
-    "私の第二の脳/Laravel/Routing/Basic Routes/CSFR Protection.md",
-    "私の第二の脳/Laravel/Routing/Basic Routes/Basic Routing.md",
-    "私の第二の脳/Laravel/Routing/Basic Routes/Api Routes.md",
-    "私の第二の脳/Laravel/Routing/Basic Routes/Available Router Methods.md",
-    "私の第二の脳/Laravel/Routing/Basic Routes/Anexos/Pasted image 20250106200814.png",
-    "私の第二の脳/Laravel/Routing/Basic Routes/Anexos",
-    "私の第二の脳/Docker/Compose/Docker Compose Sheet.md",
-    "私の第二の脳/Laravel/Routing",
-    "私の第二の脳/Docker/Compose/Anexos/Pasted image 20250106192818.png",
-    "私の第二の脳/Docker/Compose/How-tos/Services Profiles/Use service profiles.md",
-    "私の第二の脳/Docker/Compose/How-tos/Services Profiles/Stop specific profiles.md",
-    "私の第二の脳/Docker/Compose/How-tos/Services Profiles/Auto-starting profiles and dependency resolution.md",
-    "私の第二の脳/Docker/Compose/How-tos/Use lifecycle hooks.md",
-    "私の第二の脳/Docker/Compose/How-tos/Services Profiles",
-    "私の第二の脳/Docker/Compose/How-tos",
-    "私の第二の脳/Docker/Volume/Create a Volume.md",
-    "私の第二の脳/Docker/Volume/Volumes.md",
-    "私の第二の脳/Nginx/Load Balancer/HTTP Load Balancing/Proxying HTTP Traffic to a Group of Servers.md",
-    "私の第二の脳/Docker/Compose/Anexos/Pasted image 20250106190931.png",
-    "私の第二の脳/Docker/Compose/Anexos",
-    "私の第二の脳/Docker/Compose",
-    "私の第二の脳/Docker/Containers/Running Containers.md",
-    "私の第二の脳/Docker/Volume/Anexos/Pasted image 20250106190252.png",
-    "私の第二の脳/Docker/Volume/Anexos/Pasted image 20250106190235.png",
-    "私の第二の脳/Docker/Volume/Anexos",
-    "私の第二の脳/Nginx/Load Balancer/Deploy Load Balancer con Docker.md",
-    "私の第二の脳/Docker/Volume",
-    "私の第二の脳/Nginx/Load Balancer/upstream.md",
-    "私の第二の脳/Docker/CLI/Building.md",
-    "私の第二の脳/Docker/CLI/Anexos/Pasted image 20250106183620.png",
-    "私の第二の脳/Docker/CLI/Attach Shell.md",
-    "私の第二の脳/Docker/CLI/Limits.md",
-    "私の第二の脳/Docker/CLI/Cleaning up.md",
-    "私の第二の脳/Docker/CLI/Commands.md",
-    "私の第二の脳/Docker/CLI/Anexos/Pasted image 20250106183006.png",
-    "私の第二の脳/Docker/CLI/Anexos/Pasted image 20250106182937.png",
-    "私の第二の脳/Docker/CLI/Anexos/Pasted image 20250106182911.png",
-    "私の第二の脳/Docker/Containers/Comandos/logs.md",
-    "私の第二の脳/Docker/CLI/Anexos"
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes/@readonly.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes/@required.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes/@disabled.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes/Sin nombre",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes/@selected.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes/@checked.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Conditional Classes/@class.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Conditional Classes/@style.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Additional Attributes",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Enviroment Directives/@production.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Loops/@while.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Conditional Classes",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Loops/Sin título.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Loops/Loop Variable.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Loops/@forelse.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Loops/@foreach.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Loops/@for.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Session Directives/@session.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Switch Statements/@switch.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Loops",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Switch Statements",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Section Directives/@sectionMissing.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Section Directives/@hasSection.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Session Directives",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Section Directives/Sin título.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/If Statements/@unless.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Enviroment Directives/@env.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Section Directives",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/If Statements/@empty.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Authentication Directives/@guest.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Enviroment Directives",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Authentication Directives/@auth.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/If Statements/@if.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Authentication Directives",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/If Statements",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/If Statements/@isset.md",
+    "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108181900.png",
+    "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108181016.png",
+    "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108180624.png",
+    "私の第二の脳/HTTP/URL/Anexos/Pasted image 20250108173846.png",
+    "私の第二の脳/HTTP/URL/Anexos/Pasted image 20250108172709.png",
+    "私の第二の脳/HTTP/URL/Anexos/Pasted image 20250108171244.png",
+    "私の第二の脳/HTTP/URL/Anexos/Pasted image 20250108171603.png",
+    "私の第二の脳/HTTP/URL/Anexos/Pasted image 20250108171403.png",
+    "私の第二の脳/HTTP/DNS/Anexos/Pasted image 20250108155556.png",
+    "私の第二の脳/HTTP/DNS/Anexos/Pasted image 20250108153605.png",
+    "私の第二の脳/Laravel/Routing/Sin título.canvas"
   ]
 }
