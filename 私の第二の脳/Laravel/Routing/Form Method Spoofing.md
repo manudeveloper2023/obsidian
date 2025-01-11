@@ -13,3 +13,6 @@ Los formularios de **HTML** no soportan los **`PUT` , `PAT` o `DELETE`**.Por lo 
     @csrf
 </form>
 ```
+## Tags
+
+##### #Laravel
