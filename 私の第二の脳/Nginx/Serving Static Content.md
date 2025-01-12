@@ -33,7 +33,7 @@ events { }
 ## Textos relacionados
 
 - ###### **[[Mime Types]]**
-- ###### **[[Locations]]**
+- ###### **[[私の第二の脳/Nginx/Locations]]**
 
 ## Tags
 

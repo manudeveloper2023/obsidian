@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "私の第二の脳/Laravel/Middleware/Middleware Aliases.md",
+                "file": "私の第二の脳/React/reactRouter/URL Values/Location Object.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Middleware Aliases"
+              "title": "Location Object"
             }
           }
         ]
@@ -94,11 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "私の第二の脳/React/reactRouter/Routing/Layouts Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Layouts Routes"
             }
           },
           {
@@ -156,8 +157,29 @@
   },
   "active": "336ad26004d30098",
   "lastOpenFiles": [
-    "私の第二の脳/Laravel/Middleware/Registering Middleware/Global Middleware.md",
+    "私の第二の脳/React/reactRouter/URL Values/URL Search Params.md",
+    "私の第二の脳/React/reactRouter/URL Values/Location Object.md",
+    "私の第二の脳/React/reactRouter/Instalación de ReactRouter.md",
+    "私の第二の脳/React/reactRouter/URL Values/Route Params.md",
+    "私の第二の脳/React/reactRouter/Routing/Configuring Routes.md",
+    "私の第二の脳/React/reactRouter/URL Values",
+    "私の第二の脳/React/reactRouter/Navigating/useNavigate.md",
+    "私の第二の脳/React/reactRouter/Navigating/Link.md",
+    "私の第二の脳/React/reactRouter/Navigating/NavLink.md",
+    "私の第二の脳/React/reactRouter/Routing/Splats.md",
+    "私の第二の脳/React/reactRouter/Routing/Route Prefixes.md",
+    "私の第二の脳/React/reactRouter/Routing/Optional Segments.md",
+    "私の第二の脳/React/reactRouter/Routing/Nested Routes.md",
+    "私の第二の脳/React/reactRouter/Routing/Layouts Routes.md",
+    "私の第二の脳/React/reactRouter/Routing/Index Routes.md",
+    "私の第二の脳/React/reactRouter/Routing/Dynamic Sentences.md",
+    "私の第二の脳/React/reactRouter/Navigating",
+    "私の第二の脳/Ubuntu/systemd/Manejo de procesos de Nginx/systemctl disable.md",
+    "私の第二の脳/React/reactRouter/Routing",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Switch Statements/@switch.md",
+    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Including Subviews",
     "私の第二の脳/Laravel/Middleware/Middleware Aliases.md",
+    "私の第二の脳/Laravel/Middleware/Registering Middleware/Global Middleware.md",
     "私の第二の脳/Laravel/Middleware/Registering Middleware/Middleware Groups/appendToGroup.md",
     "私の第二の脳/Laravel/Middleware/Registering Middleware/Middleware Groups/Laravel's Default Middleware Groups.md",
     "私の第二の脳/Laravel/Middleware/Registering Middleware/Middleware Groups/Manually Managing Laravel's Default Global Middleware.md",
@@ -167,36 +189,15 @@
     "Excalidraw",
     "私の第二の脳/Laravel/Middleware/Registering Middleware/Middleware Groups",
     "私の第二の脳/Laravel/Middleware/Defining Middleware/Middleware With Group Controller Routes.md",
-    "私の第二の脳/Laravel/Middleware/Defining Middleware/Middleware and Responses.md",
-    "私の第二の脳/Laravel/Middleware/Defining Middleware/Middleware.md",
-    "私の第二の脳/Laravel/Middleware/Registering Middleware/Excluding Middleware.md",
-    "私の第二の脳/Laravel/Middleware/Registering Middleware/Assigning Middleware to Routes.md",
-    "私の第二の脳/Laravel/Architecture Concepts/Facades.md",
-    "私の第二の脳/Laravel/Routing/Route Groups/Middleware.md",
-    "私の第二の脳/Laravel/Routing/Route Groups/Controllers.md",
-    "私の第二の脳/Laravel/Validation/Validation Quickstart/Writing the Validation Logic.md",
-    "私の第二の脳/Laravel/Routing/Form Method Spoofing.md",
-    "私の第二の脳/Laravel/Routing/FallBack Routes.md",
     "私の第二の脳/Laravel/Validation/Validation Quickstart",
-    "私の第二の脳/Laravel/Validation/Sin título.md",
     "私の第二の脳/Laravel/Validation",
-    "私の第二の脳/Wordpress/Pages.md",
-    "私の第二の脳/Wordpress/Posts.md",
-    "私の第二の脳/Nginx/Mime Types.md",
-    "私の第二の脳/Nginx/Locations.md",
     "私の第二の脳/Wordpress/Anexos/Pasted image 20250109165529.png",
     "私の第二の脳/Wordpress/Anexos/Pasted image 20250109165421.png",
     "私の第二の脳/Wordpress/Anexos",
     "私の第二の脳/Wordpress",
-    "私の第二の脳/Laravel/Middleware/Registering Middleware",
-    "私の第二の脳/Laravel/Middleware/Defining Middleware",
-    "私の第二の脳/Laravel/Blade Templates/Blade Directives/Conditional Classes/@class.md",
-    "私の第二の脳/Design Patterns/Adapter.md",
-    "私の第二の脳/Laravel/Middleware",
     "私の第二の脳/Design Patterns/Anexos/Pasted image 20250109135011.png",
     "私の第二の脳/Design Patterns/Anexos/Pasted image 20250109134857.png",
     "私の第二の脳/Design Patterns/Anexos/Pasted image 20250109134834.png",
-    "私の第二の脳/Design Patterns/Anexos",
     "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108181900.png",
     "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108181016.png",
     "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108180624.png",
