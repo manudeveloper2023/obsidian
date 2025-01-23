@@ -1,0 +1,1 @@
+Cuando un `access token` expire en la aplicación puedes usar un `refresh token` para crear uno nuevo sin preguntar al usuario que se logee denuevo

@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "444875bac1857663",
+        "id": "8367cbe426cf6b01",
         "type": "tabs",
         "children": [
           {
-            "id": "1046dd470a84937a",
+            "id": "1ecb653198837e1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "私の第二の脳/Laravel/Blade Templates/Extending Blade.md",
+                "file": "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Retrieving Data/Retrieving a Portion of the Session Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extending Blade"
+              "title": "Retrieving a Portion of the Session Data"
+            }
+          },
+          {
+            "id": "54f078a4136c119e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Regenerating the Session ID.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regenerating the Session ID"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,44 +171,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1046dd470a84937a",
+  "active": "54f078a4136c119e",
   "lastOpenFiles": [
-    "私の第二の脳/Laravel/Blade Templates/Rendering Blade Fragments.md",
-    "私の第二の脳/Laravel/Blade Templates/Extending Blade.md",
-    "私の第二の脳/Laravel/Blade Templates/Forms/Validations Errors.md",
-    "私の第二の脳/Laravel/Blade Templates/Rendering Inline Blade Templates.md",
-    "私の第二の脳/Laravel/Blade Templates/Service Injection.md",
-    "私の第二の脳/Laravel/Blade Templates/Stacks/Stacks.md",
-    "私の第二の脳/Laravel/Blade Templates/Sin nombre",
-    "私の第二の脳/Laravel/Blade Templates/Forms/Method Field.md",
-    "私の第二の脳/Laravel/Blade Templates/Stacks",
-    "私の第二の脳/Laravel/Blade Templates/Forms/Validation Errors.md",
-    "私の第二の脳/Laravel/Blade Templates/Forms/CSRF Field.md",
-    "私の第二の脳/Laravel/Blade Templates/Building Layaouts/Extending the layout.md",
-    "私の第二の脳/Laravel/Blade Templates/Forms",
-    "私の第二の脳/Laravel/Blade Templates/Building Layaouts/Defining the Layout Components.md",
-    "私の第二の脳/Laravel/Blade Templates/Building Layaouts/Templates using Template Inheritance.md",
-    "私の第二の脳/Laravel/Blade Templates/Anonymous Components/Anonymous Components.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Passing Data to Components/Component Methods.md",
-    "私の第二の脳/Laravel/Blade Templates/Anonymous Components/Anonymous Components Paths.md",
-    "私の第二の脳/Laravel/Blade Templates/Building Layaouts",
-    "私の第二の脳/Laravel/Blade Templates/Anonymous Components/Anonymous Index Components.md",
-    "私の第二の脳/Laravel/Blade Templates/Anonymous Components/Data Propertiers - Attributes.md",
-    "私の第二の脳/Laravel/Blade Templates/Anonymous Components/Accesing Parent Data.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Passing Data to Components/Non-Class Attribute Merging.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Passing Data to Components/Casing.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Passing Data to Components/Additional Dependencies.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Passing Data to Components/Accessing Attributes and Slots Within Component Classes.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Slots/Slots.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Slots/Slot Attributes.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Slots/Scoped Slots.md",
-    "私の第二の脳/Laravel/Blade Templates/Components/Components.md",
-    "私の第二の脳/Laravel/Blade Templates/Anonymous Components",
-    "私の第二の脳/Laravel/HTTP",
-    "私の第二の脳/Laravel/CSRF Protection",
-    "私の第二の脳/Laravel/Blade Templates/Components/Sin nombre",
-    "私の第二の脳/Laravel/Blade Templates/Components/Slots",
-    "私の第二の脳/Laravel/Blade Templates/Components/Passing Data to Components",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Deleting Data/Deleting Data.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Regenerating the Session ID.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Flash Data/Flash Data.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Deleting Data",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Flash Data",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Storing Data/Incrementing and Decrementing Session Values.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Storing Data/Pushing to Array Session Values.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Storing Data/Retrieving and Deleting an Item.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Storing Data/Storing Data.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Retrieving Data/Determining if an Item Exists in the Session.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Storing Data",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Retrieving Data",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Retrieving Data/Retrieving a Portion of the Session Data.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Retrieving Data/Retrieving All Session Data.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Retrieving Data/Retrieving Data.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session/Retrieving Data/The Global Session Helper.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Introduction/Configuration.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Introduction/Driver Prerequisites.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Interacting With the Session",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Introduction/Session.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session/Introduction",
+    "私の第二の脳/Laravel/The Basics/CSRF Protection/Excluding URIs From CSRF Protection.md",
+    "私の第二の脳/Laravel/The Basics/Responses/Streamed Responses/Streamed Json Responses.md",
+    "私の第二の脳/Laravel/The Basics/HTTP Session",
+    "私の第二の脳/Laravel/The Basics/Responses/Streamed Responses/Streamed Responses.md",
+    "私の第二の脳/Laravel/The Basics/Responses/JSON Responses.md",
+    "私の第二の脳/Laravel/The Basics/Responses/Streamed Responses",
+    "私の第二の脳/Laravel/The Basics/Responses/File Downloads/File Responses.md",
+    "私の第二の脳/Laravel/The Basics/Responses/File Downloads/File Downloads.md",
+    "私の第二の脳/Laravel/The Basics/Responses/View Responses.md",
+    "私の第二の脳/Laravel/The Basics/Responses/File Downloads",
+    "私の第二の脳/Laravel/The Basics/Responses/Redirects/Populating Parameters via Eloquent Models.md",
+    "私の第二の脳/Laravel/The Basics/Responses/Redirects/Redirecting With Input.md",
+    "私の第二の脳/Laravel/The Basics/Responses/Redirects/Redirecting With Flashed Session Data.md",
+    "私の第二の脳/Laravel/The Basics/Responses/Redirects/Redirects.md",
+    "私の第二の脳/Laravel/The Basics/Responses/Redirects",
+    "私の第二の脳/API REST/JWT/Anexos/Pasted image 20250120221051.png",
     "私の第二の脳/Github/Anexos/01.svg",
     "私の第二の脳/Github/Anexos/Pasted image 20250112233557.png",
     "私の第二の脳/Wordpress/Anexos/Pasted image 20250109165529.png",
@@ -202,7 +219,6 @@
     "私の第二の脳/Design Patterns/Anexos/Pasted image 20250109134834.png",
     "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108181900.png",
     "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108181016.png",
-    "私の第二の脳/HTTP/Protocol HTTP/Anexos/Pasted image 20250108180624.png",
     "私の第二の脳/Laravel/Routing/Sin título.canvas"
   ]
 }
