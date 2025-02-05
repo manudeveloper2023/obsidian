@@ -13,4 +13,7 @@ Si quieres regenerar el sesión `ID` y remover todos los datos en la sesión , p
 ```php
 $request->session()->invalidate();
 ```
+## Tags
 
+##### #Laravel
+##### #Laravel-Session
